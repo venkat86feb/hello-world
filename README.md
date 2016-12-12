@@ -1,3 +1,3 @@
 # hello-world
-Test project to learn Github
+Test project to understand Github
 Test changes
